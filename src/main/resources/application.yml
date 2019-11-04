@@ -13,4 +13,4 @@ spring:
     expose-session-attributes: false
     expose-spring-macro-helpers: false
     suffix: .ftl
-    template-loader-path: classpath:/templates
+    template-loader-path: classpath:/pages

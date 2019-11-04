@@ -11,4 +11,8 @@ public class DriveController {
         return "index";
     }
 
+    @RequestMapping("/driveList")
+    public String driveList() {
+        return "Drive/driveList";
+    }
 }
